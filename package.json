@@ -1,0 +1,16 @@
+{
+  "name": "charliebirger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deeplearn": "^0.4.2",
+    "jest": "^22.1.4"
+  }
+}
